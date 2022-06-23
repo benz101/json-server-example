@@ -1,0 +1,116 @@
+{   "message":"Success",
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg",
+            "phone": "1-770-736-8031 x56442",
+            "address": {
+                "street": "Kulas Light",
+                "suite": "Apt. 556",
+                "city": "Gwenborough",
+                "zipcode": "92998-3874",
+                "geo": {
+                    "lat": "-37.3159",
+                    "lng": "81.1496"
+                }
+            },
+            "booking": [
+                {
+                    "id_booking": "B0001",
+                    "hotel_name": "Hotel A",
+                    "status": "confirmed",
+                    "start": "01-06-2022",
+                    "end": "02-06-2022"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg",
+            "phone": "010-692-6593 x09125",
+            "booking": [
+                {
+                    "id_booking": "B0002",
+                    "hotel_name": "Hotel B",
+                    "status": "confirmed",
+                    "start": "02-06-2022",
+                    "end": "03-06-2022"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg",
+            "phone": "1-463-123-4447",
+            "booking": [
+                {
+                    "id_booking": "B0003",
+                    "hotel_name": "Hotel C",
+                    "status": "confirmed",
+                    "start": "04-06-2022",
+                    "end": "05-06-2022"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg",
+            "phone": "493-170-9623 x156",
+            "booking": [
+                {
+                    "id_booking": "B0004",
+                    "hotel_name": "Hotel D",
+                    "status": "confirmed",
+                    "start": "06-06-2022",
+                    "end": "07-06-2022"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg",
+            "phone": "(254)954-1289",
+            "booking": [
+                {
+                    "id_booking": "B0005",
+                    "hotel_name": "Hotel E",
+                    "status": "confirmed",
+                    "start": "08-06-2022",
+                    "end": "09-06-2022"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg",
+            "phone": "1-477-935-8478 x6430",
+            "booking": [
+                {
+                    "id_booking": "B0006",
+                    "hotel_name": "Hotel F",
+                    "status": "canceled",
+                    "start": "09-06-2022",
+                    "end": "10-06-2022"
+                }
+            ]
+        }
+    ]
+}
